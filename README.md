@@ -1,4 +1,4 @@
-# MP4AR
+# MPAR
 
 The code in this toolbox implements ["Optimal Motion Planning and Navigation for Nonholonomic Agricultural Robots in Multi-Constraint and Multi-Task Environments"](https://doi.org/10.1016/j.compag.2025.110822) by <i>W. Zhang, T. Sun, Y. Li, C. He, X. Xiu, Z. Miao</i>.
 
